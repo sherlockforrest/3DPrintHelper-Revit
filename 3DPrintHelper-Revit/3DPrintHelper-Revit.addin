@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>3D Print Helper</Name>
+    <Assembly>C:\Users\andre.KEEPCAD\Documents\Visual Studio 2017\Projects\3DPrintHelper-Revit\3DPrintHelper-Revit\bin\Debug\3DPrintHelper-Revit.dll</Assembly>
+    <FullClassName>ThreeDPrintHelper.App</FullClassName>
+    <ClientId>89882a4e-51f6-455d-bbce-1b56fc2614a6</ClientId>
+    <VendorId>André Fernando de Assis</VendorId>
+    <VendorDescription>https://github.com/andrefernando</VendorDescription>
+  </AddIn>
+</RevitAddIns>
